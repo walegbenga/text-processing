@@ -1,0 +1,3 @@
+Although many web sites have video and other multimedia capabilities, the most fundamental part of almost all web sites remains the information contained within its text. This plug-ins concentrates on providing a range of functions to facilitate manipulating and presenting text in the most suitable way. 
+
+Whether you wish to control word wrapping, use of upper- and lowercase, spelling and grammar, text length, unwanted words and characters, or other textual features, there’s a plug-in here that will do the job. Some of these plug-ins are so useful they are themselves used by other plug-ins in this book.
