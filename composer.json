@@ -2,8 +2,8 @@
   "name": "drw/text-processing",
   "description": "This class is use to facilitate manipulating and presenting text in the most suitable way",
   "license": "MIT",
-  "homepage": "https://github.com/gbengawale/php-form",
-  "keywords": ["web", "php", "text", "text-proccessor", "text-library", "proccessor-library", "text-proccessor-library"],
+  "homepage": "https://github.com/walegbenga/text-processing",
+  "keywords": ["web", "php", "text", "text-proccessing", "text-library", "proccessing-library", "text-proccessing-library"],
   "autoload":
   {
     "psr-4":
